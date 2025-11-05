@@ -1,0 +1,3 @@
+import linkedlist
+
+linkedlist.add()
